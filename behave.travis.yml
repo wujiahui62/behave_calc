@@ -4,5 +4,5 @@ python:
 # command to run tests
 install:
 script:
-  - python3 behave
+  - behave
 
